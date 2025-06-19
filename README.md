@@ -43,7 +43,7 @@ Please refer to [requirements.txt](requirements.txt) for a list of the python mo
 
 * **Hristo Mitsev** - *AI and backend work* - [iccaka](https://github.com/iccaka)
 
-See also the list of [contributors]() who participated in this project.
+See also the list of [contributors](https://github.com/iccaka/ClearRoute-x-Le-Mans-24h-Hackathon-2025/graphs/contributors) who participated in this project.
 
 ## Built Wit
 
@@ -52,5 +52,5 @@ See also the list of [contributors]() who participated in this project.
 ## License
 
 This project is licensed under the MIT License - *see the* 
-[LICENSE](https://github.com/iccaka/Metasim-task/blob/master/LICENSE.md) *file for details.*
+[LICENSE](https://github.com/iccaka/ClearRoute-x-Le-Mans-24h-Hackathon-2025/blob/master/LICENSE.md) *file for details.*
 
